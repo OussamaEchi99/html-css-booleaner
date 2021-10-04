@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: arial;
+}
+
+.container{
+    margin-left: 5px;
+}
+
+.titolo img{
+    width: 250px;
+    height: 200px;
+}
+
+.titolo{
+    background-image: url("../img/pattern.png");
+    height: 140px;
+    background-color: #4ea0ff;
+    background-size: 30%;
+    margin-top: 15px;
+}
+
+.grigio{
+    color: #808080;
+    margin-bottom: 15px;
+}
+
+.grigio span{
+    color: #20a9e5;
+}
+
+.foto-tim img{
+    width: 45%;
+    height: 525px;
+}
+
+main{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.paragrafo{
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+ul{
+    list-style-type: circle;
+}
