@@ -85,8 +85,8 @@ p span{
 }
 
 .ad{
-    width: 210px;
-    height: 140px;
+    width: 245px;
+    height: 165px;
     background-size: contain;
     font-size: 20px;
     font-weight: 600;
@@ -94,9 +94,10 @@ p span{
 }
 
 .ad span{
-    margin-left: 10px;
-    position: relative;
-    top: 10px;
+    display: block;
+    padding-top: 10px;
+    margin-left: 15px;
+   
 }
 
 .img1{
