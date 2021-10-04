@@ -47,5 +47,39 @@ main{
 }
 
 ul{
-    list-style-type: circle;
+    margin-left: 15px;
+}
+
+.tabella{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.lorem{
+    width: 300px;
+    text-align: left;
+}
+
+.descrizione{
+    text-align: left;
+}
+
+th{
+    background-color: #20a9e5;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+td{
+    height: 50px;
+}
+
+.blue{
+    background-color: #b1e5f2;
+}
+
+p span{
+    background-color: yellow;
 }
